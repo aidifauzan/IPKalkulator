@@ -1,0 +1,20 @@
+h1	{font-family: DISTANT GALAXY;}
+h2	{font-family: TAHOMA; font-size:16pt;}
+h3	{font-family: TAHOMA; font-size: 10pt;}
+
+header
+{
+	background-image: url(dead4movie.jpg), url(dead4movie.jpg);
+	background-position: left,right;
+	background-repeat: no-repeat,no-repeat;
+	background-size: 127px, 127px;
+	background-color: lightblue;
+	text-align: center;
+	padding: .5em;
+}
+
+body
+{
+	background-color: lightblue;
+	width:700px; margin:0 auto;
+}
