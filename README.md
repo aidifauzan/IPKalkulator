@@ -1,5 +1,4 @@
 IPKalkulator
 ============
 
-IPKalkulator adalah aplikasi web untuk menghitung IP anda
-wakakakaka LOL
+IPKalkulator adalah aplikasi web untuk menghitung Index Prestasi
